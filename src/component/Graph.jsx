@@ -18,7 +18,7 @@ export default function Graph() {
 
   
   return (
-    <div>
+    <div className="graph">
       <select name="" id="">
         <option value="today">Today</option>
         <option value="yesterday">Yesterday</option>

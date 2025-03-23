@@ -18,6 +18,39 @@ export default function NavBar() {
         <h1>Hi Erez,</h1>
         <h3>Its looking like a slow day.</h3>
         </div>
+        <div className='details d-flex justify-content-around'>
+          <div className="detail d-flex">
+            <p className='icon'>&#128100;</p>
+            <div className="detail-text">
+              <p>Unassigned</p>
+              <h2>350</h2>
+            </div>
+          </div>
+          <div className="detail d-flex">
+            <p className='icon'>&#128100;</p>
+            <div className="detail-text">
+              <p>Assigned</p>
+              <h3>450</h3>
+            </div>
+          </div>
+          <div className="detail d-flex">
+            <p className='icon'>&#128100;</p>
+            <div className="detail-text">
+              <p>Closed</p>
+              <h3>3500</h3>
+            </div>
+          </div>
+          <div className="detail d-flex">
+            <p className='icon'>&#128100;</p>
+            <div className="detail-text">
+              <p>Channels</p>
+              <h3>3</h3>
+            </div>
+          </div>
+          
+          
+        </div>
+
         
     </div>
   )

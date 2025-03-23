@@ -1,27 +1,71 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.App{
+  background-color: whitesmoke;
+  
+}
+.nav-container{
+  width: 240px;
+  
+}
+.nav li{
+  list-style-type: none;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+.nav .Dash{
+  color: rgb(116, 6, 116);
+  background-color: rgba(206, 206, 206, 0.363);
+  border-radius: 20px;
+}
+.Spakle img{
+  width: 70%;
+  margin: 25px;
+}
+
 .Nameofuser {
   display: flex;
   flex-direction: column;
-  margin-left: 300px;
-  margin-top: 50px;
+  margin-left: 30px;
+}
+.detail{
+  background-color: white;
+  padding: 10px;
+  width: 340px;
+  border-radius: 20px;
+  margin: 25px 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
+.detail .icon{
+  font-size: 50px;
+  background-color: rgba(206, 206, 206, 0.363);
+  border-radius: 50%;
+  padding: 5px;
+}
+.detail-text{
+  text-align: center;
+}
 .accounticon {
   display: flex;
   justify-content: right;
   margin-right: 50px;
-  margin-top: 50px;
 }
 .iconimage {
   width: 40px;
 }
 .MostSales {
-  width: 350px;
+  width: 360px;
   padding: 20px;
   background-color: white;
   border-radius: 10px;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
   text-align: center;
   font-family: Arial, sans-serif;
+  margin-left: 10px;
+  margin-top: 25px;
 }
 .top-title {
   font-size: 20px;
@@ -57,4 +101,7 @@
 }
 .leaderboard-bottum-st p {
   height: 4px;
+}
+.graph{
+  margin-bottom: 25px;
 }
