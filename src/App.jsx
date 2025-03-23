@@ -1,5 +1,5 @@
 import Graph from "./component/Graph";
-import TableUsers from "./components/TableUsers";
+import TableUsers from "./component/TableUsers";
 
 export default function App() {
   return (
