@@ -3,7 +3,6 @@ import TableUsers from "./component/TableUsers";
 import NavBar from "./component/NavBar";
 
 import MostSales from "./component/MostSales";
-import NavBar from "./component/NavBar";
 
 export default function App() {
   return (
