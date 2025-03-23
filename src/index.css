@@ -1,0 +1,16 @@
+.Nameofuser {
+  display: flex;
+  flex-direction: column;
+  margin-left: 300px;
+  margin-top: 50px;
+}
+
+.accounticon {
+  display: flex;
+  justify-content: right;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+.iconimage {
+  width: 40px;
+}
