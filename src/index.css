@@ -14,3 +14,48 @@
 .iconimage {
   width: 40px;
 }
+.MostSales{
+  width: 350px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+.top-title{
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
+.leaderboard-bottum img{
+  width: 30px;
+  
+}
+.leaderboard-bottum{
+  font-size: 13px;
+  font-weight: bold;
+}
+.leaderboard-top img{
+  width: 80px;
+}
+.leaderboard-top{
+  font-weight: bold;
+}
+.purple-text{
+  color: #8A2BE2;
+}
+.leaderboard-text{
+  font-size: 12px;
+}
+.leaderboard-bottum-st{
+  margin: 10px;
+  background-color: #bcafc849;
+  padding: 5px;
+  border-radius: 25px;
+  align-items: center;
+  height: 40px;
+}
+.leaderboard-bottum-st p{
+  height: 4px;
+}
