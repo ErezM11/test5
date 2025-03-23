@@ -1,8 +1,4 @@
-import React, { useState } from "react";
 import { Chart } from "react-google-charts";
-
-
-
 
 export default function Graph() {
   const data = [
