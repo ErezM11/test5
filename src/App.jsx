@@ -1,7 +1,8 @@
-import React from 'react'
-
+import Graph from './component/Graph'
 export default function App() {
   return (
-    <div>App</div>
+    <div>
+      <Graph></Graph>
+    </div>
   )
 }
