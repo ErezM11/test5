@@ -14,7 +14,7 @@
 .iconimage {
   width: 40px;
 }
-.MostSales{
+.MostSales {
   width: 350px;
   padding: 20px;
   background-color: white;
@@ -23,32 +23,31 @@
   text-align: center;
   font-family: Arial, sans-serif;
 }
-.top-title{
+.top-title {
   font-size: 20px;
   font-weight: bold;
   color: #333;
 }
-.leaderboard-bottum img{
+.leaderboard-bottum img {
   width: 30px;
-  
 }
-.leaderboard-bottum{
+.leaderboard-bottum {
   font-size: 13px;
   font-weight: bold;
 }
-.leaderboard-top img{
+.leaderboard-top img {
   width: 80px;
 }
-.leaderboard-top{
+.leaderboard-top {
   font-weight: bold;
 }
-.purple-text{
-  color: #8A2BE2;
+.purple-text {
+  color: #8a2be2;
 }
-.leaderboard-text{
+.leaderboard-text {
   font-size: 12px;
 }
-.leaderboard-bottum-st{
+.leaderboard-bottum-st {
   margin: 10px;
   background-color: #bcafc849;
   padding: 5px;
@@ -56,6 +55,6 @@
   align-items: center;
   height: 40px;
 }
-.leaderboard-bottum-st p{
+.leaderboard-bottum-st p {
   height: 4px;
 }
